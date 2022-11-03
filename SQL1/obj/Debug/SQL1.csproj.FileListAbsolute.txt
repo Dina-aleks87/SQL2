@@ -1,0 +1,15 @@
+D:\VisualStudio\SQL1\SQL1\bin\Debug\SQL1.exe.config
+D:\VisualStudio\SQL1\SQL1\bin\Debug\SQL1.exe
+D:\VisualStudio\SQL1\SQL1\bin\Debug\SQL1.pdb
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.csproj.AssemblyReference.cache
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.Form1.resources
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.Students.resources
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.Properties.Resources.resources
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.csproj.GenerateResource.cache
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.exe
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.pdb
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.Subjects.resources
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.Uspev.resources
+D:\VisualStudio\SQL1\SQL1\obj\Debug\SQL1.StudentsTable.resources
